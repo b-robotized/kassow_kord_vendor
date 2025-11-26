@@ -1,0 +1,1 @@
+find_package(kord-api REQUIRED NO_MODULE)
