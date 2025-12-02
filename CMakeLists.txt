@@ -18,7 +18,7 @@ include(FetchContent)
 FetchContent_Declare(
     kord_api
     GIT_REPOSITORY  https://gitlab.com/kassowrobots/kord-api.git
-    GIT_TAG         9ec573c17abde25348ec1f48ed609c89ec485ae0 # v3.0.0
+    GIT_TAG         v3.0.1
     GIT_SHALLOW     true
 )
 
