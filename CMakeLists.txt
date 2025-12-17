@@ -17,8 +17,8 @@ set(INSTALL_KORD_PROTOCOL ON CACHE BOOL "Install the protocol" FORCE)
 include(FetchContent)
 FetchContent_Declare(
     kord_api
-    GIT_REPOSITORY  https://gitlab.com/kassowrobots/kord-api.git
-    GIT_TAG         v3.0.1
+    GIT_REPOSITORY  git@code.b-robotized.com:b-controlled-box/forks/kord-api.git
+    GIT_TAG         fix/version-override
     GIT_SHALLOW     true
 )
 
