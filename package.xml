@@ -5,6 +5,7 @@
   <version>0.0.0</version>
   <description>vendor package for Kassow KORD api.</description>
   <maintainer email="nikola.banovic@b-robotized.com">nibanovic</maintainer>
+  <maintainer email="hajar.bartakh@b-robotized.com">habartakh</maintainer>
   <license>Apache-2.0</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
